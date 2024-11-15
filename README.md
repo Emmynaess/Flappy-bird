@@ -13,4 +13,4 @@ Install
 pip install -r requirements.txt
 
 
-Saw this tutorial on youtube. Seemed fun. Looked good. Wanted to try it. 
+Saw this tutorial on youtube. Seemed fun. Looked good. Wanted to try it. Might add changes.
