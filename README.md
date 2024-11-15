@@ -1,12 +1,15 @@
 # Flappy-bird
 
 Install
+
 py -m venv .venv
 
 Activate
+
 .\.venv\Scripts\activate
 
 Install
+
 pip install -r requirements.txt
 
 
